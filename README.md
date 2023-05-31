@@ -7,7 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 The project structure is organized as follows:
 
 ```
-├── node_modules
 ├── public
 │   ├── favicon.ico
 │   ├── index.html
@@ -28,15 +27,12 @@ The project structure is organized as follows:
 │   │    ├── aboutus.png
 │   │    ├── METAVERSO-2.png
 │   │    └── METAVERSO-3A.png
-│   ├── App.css
 │   ├── App.js
 │   ├── App.test.js
-│   ├── index.css
 │   ├── index.js
 │   ├── reportWebVitals.js
 │   └── setupTests.js
 ├── .gitignore
-├── aboutus.png
 ├── package.json
 ├── package-lock.json
 └── README.md 

@@ -22,8 +22,6 @@ const Footer = () => {
                         ))
                     }
                 </div>
-
-
                 <div className="col-md-6 imagesMetaversPeople">
                     <img src={imagen2} className="img-fluid border rounded-3 shadow-lg mb-4 px-4 py-2"
                          alt="Metaverse" loading="lazy" />
@@ -32,13 +30,11 @@ const Footer = () => {
                     <img src={imagen3} className="img-fluid border rounded-3 shadow-lg mb-4 px-4 py-2"
                          alt="Metaverse" loading="lazy" />
                 </div>
-
                 <a id="maplocal"> </a>
                 <iframe className="border rounded-3 shadow-lg mb-4 px-4 py-2"
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6570.750846593825!2d-58.64320608123976!3d-34.56936605407338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbbfef9f48aa9%3A0xc4dd49be0d6b62d0!2sComplejo%20Deportivo%20Club%20Atl%C3%A9tico%20River%20Plate!5e0!3m2!1ses!2sar!4v1683841944023!5m2!1ses!2sar"
                         width="100%" height="300" allowFullScreen="" loading="lazy"
                         referrerPolicy="no-referrer-when-downgrade"></iframe>
-
                 <div className="col-md-9 mt-1 text-center">
                     <span className="mb-3 mb-md-0 text-body-secondary"> <i className="bi bi-headset-vr"></i> &copy; 2023 E-Learning, Inc | </span>
                     <span className="mb-3 mb-md-0 text-body-secondary"> Address: 5555 Libertador Ave - C.A.B.A | </span>
